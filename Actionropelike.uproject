@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8FAD29DF-42F2-D7E1-ED71-B2AF8463CCCE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Actionropelike",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
